@@ -1,0 +1,33 @@
+2025-10-27 03:36:09,633 - INFO - Added 10 of apple
+2025-10-27 03:36:09,634 - INFO - Added -2 of banana
+2025-10-27 03:36:09,634 - ERROR - Invalid item name type: <class 'int'>. Must be a string.
+2025-10-27 03:36:09,634 - INFO - Removed 3 of apple. Remaining: 7
+2025-10-27 03:36:09,634 - WARNING - Attempted to remove non-existent item: orange. Error: 'orange'
+2025-10-27 03:36:09,634 - INFO - Apple stock: 7
+2025-10-27 03:36:09,634 - INFO - Low items: ['banana']
+2025-10-27 03:36:09,634 - INFO - Saved inventory data to file.
+2025-10-27 03:36:09,634 - INFO - Loaded inventory data from file.
+2025-10-27 03:36:09,634 - INFO - Generating inventory report...
+2025-10-27 03:36:09,634 - INFO - Program execution completed successfully.
+2025-10-27 03:38:44,438 - INFO - Added 10 of apple
+2025-10-27 03:38:44,438 - INFO - Added -2 of banana
+2025-10-27 03:38:44,439 - ERROR - Invalid item name type: <class 'int'>. Must be a string.
+2025-10-27 03:38:44,439 - INFO - Removed 3 of apple. Remaining: 7
+2025-10-27 03:38:44,439 - WARNING - Attempted to remove non-existent item: orange. Error: 'orange'
+2025-10-27 03:38:44,439 - INFO - Apple stock: 7
+2025-10-27 03:38:44,439 - INFO - Low items: ['banana']
+2025-10-27 03:38:44,439 - INFO - Saved inventory data to file.
+2025-10-27 03:38:44,439 - INFO - Loaded inventory data from file.
+2025-10-27 03:38:44,440 - INFO - Generating inventory report...
+2025-10-27 03:38:44,440 - INFO - Program execution completed successfully.
+2025-10-27 03:41:02,440 - INFO - Added 10 of apple
+2025-10-27 03:41:02,440 - INFO - Added -2 of banana
+2025-10-27 03:41:02,440 - ERROR - Invalid item name type: <class 'int'>. Must be a string.
+2025-10-27 03:41:02,440 - INFO - Removed 3 of apple. Remaining: 7
+2025-10-27 03:41:02,440 - WARNING - Attempted to remove non-existent item: orange. Error: 'orange'
+2025-10-27 03:41:02,441 - INFO - Apple stock: 7
+2025-10-27 03:41:02,441 - INFO - Low items: ['banana']
+2025-10-27 03:41:02,441 - INFO - Saved inventory data to file.
+2025-10-27 03:41:02,441 - INFO - Loaded inventory data from file.
+2025-10-27 03:41:02,441 - INFO - Generating inventory report...
+2025-10-27 03:41:02,441 - INFO - Program execution completed successfully.
